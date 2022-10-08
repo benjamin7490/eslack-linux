@@ -1,2 +1,2 @@
 # eslack-linux
-A easy slackware installation and simplified utilization
+An easy slackware installation and simplified utilization
